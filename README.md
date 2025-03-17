@@ -23,3 +23,10 @@ Database: Hibernate
 Authentication: JWT (JSON Web Token)
 
 Frontend : React.js 
+
+# Screenshots of The application
+![Screenshot 2025-03-17 at 5 45 15 PM](https://github.com/user-attachments/assets/e571e89d-7d0c-4b05-8caf-701a58f4f241)
+
+![Screenshot 2025-03-17 at 5 45 40 PM](https://github.com/user-attachments/assets/878b0a63-05ee-4dd0-aa31-ce6cddef18e2)
+
+
